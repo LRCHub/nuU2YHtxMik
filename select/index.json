@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "真夜中のドア/Stay With Me",
+  "base_artist": "松原みき",
+  "createdAt": "2025-12-15T06:40:51.447940Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "真夜中のドア/Stay With Me (シングルver.)",
+      "artist": "松原みき",
+      "has_synced": false,
+      "path": "select/01_真夜中のドア_Stay_With_Me_(シングルver.)_松原みき.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "真夜中のドア/Stay With Me (Original club mix)",
+      "artist": "松原みき",
+      "has_synced": true,
+      "path": "select/02_真夜中のドア_Stay_With_Me_(Original_club_mix)_松原みき.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "真夜中のドア～Stay With Me (Original Club Mix Mixed By D.O.I.)",
+      "artist": "Miki Matsubara",
+      "has_synced": true,
+      "path": "select/03_真夜中のドア~Stay_With_Me_(Original_Club_Mix_Mixed_By_D.O.I.)_Miki_Matsubara.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "真夜中のドア～Stay With Me (Single Version)",
+      "artist": "Miki Matsubara",
+      "has_synced": true,
+      "path": "select/04_真夜中のドア~Stay_With_Me_(Single_Version)_Miki_Matsubara.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "真夜中のドア / STAY WITH ME",
+      "artist": "Rainych",
+      "has_synced": true,
+      "path": "select/05_真夜中のドア___STAY_WITH_ME_Rainych.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "真夜中のドア／Stay With Me",
+      "artist": "松原みき",
+      "has_synced": true,
+      "path": "select/06_真夜中のドア_Stay_With_Me_松原みき.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "真夜中のドア／Stay With Me",
+      "artist": "松原みき",
+      "has_synced": true,
+      "path": "select/07_真夜中のドア_Stay_With_Me_松原みき.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "真夜中のドア/Stay With Me (Original Club Mix Mixed By D.O.I.)",
+      "artist": "Miki Matsubara",
+      "has_synced": true,
+      "path": "select/08_真夜中のドア_Stay_With_Me_(Original_Club_Mix_Mixed_By_D.O.I.)_Miki_Matsubara.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "真夜中のドア/Stay With Me",
+      "artist": "Miki Matsubara",
+      "has_synced": true,
+      "path": "select/09_真夜中のドア_Stay_With_Me_Miki_Matsubara.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "真夜中のドア / Stay With Me (feat. ひかり)",
+      "artist": "Tokimeki Records",
+      "has_synced": true,
+      "path": "select/10_真夜中のドア___Stay_With_Me_(feat._ひかり)_Tokimeki_Records.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "真夜中のドア [Midnight Door / Stay With Me]",
+      "artist": "松原みき (Miki Matsubara)",
+      "has_synced": true,
+      "path": "select/11_真夜中のドア_[Midnight_Door___Stay_With_Me]_松原みき_(Miki_Matsubara).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "真夜中のドア / Stay With Me (Original club mix Mixed by D.O.I.)",
+      "artist": "松原みき",
+      "has_synced": true,
+      "path": "select/12_真夜中のドア___Stay_With_Me_(Original_club_mix_Mixed_by_D.O.I.)_松原みき.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "真夜中のドア/Stay With Me",
+      "artist": "松原みき",
+      "has_synced": true,
+      "path": "select/13_真夜中のドア_Stay_With_Me_松原みき.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "真夜中のドア/Stay With Me (シングルVer.)",
+      "artist": "Miki Matsubara",
+      "has_synced": true,
+      "path": "select/14_真夜中のドア_Stay_With_Me_(シングルVer.)_Miki_Matsubara.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "真夜中のドア~ stay with me (Single Version)",
+      "artist": "Miki Matsubara",
+      "has_synced": true,
+      "path": "select/15_真夜中のドア~_stay_with_me_(Single_Version)_Miki_Matsubara.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "真夜中のドア/Stay_With_Me",
+      "artist": "Miki_Matsubara",
+      "has_synced": true,
+      "path": "select/16_真夜中のドア_Stay_With_Me_Miki_Matsubara.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "真夜中のドア / Stay with Me",
+      "artist": "松原みき",
+      "has_synced": true,
+      "path": "select/17_真夜中のドア___Stay_with_Me_松原みき.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "真夜中のドア/Stay With Me (シングルver.)",
+      "artist": "松原みき",
+      "has_synced": true,
+      "path": "select/18_真夜中のドア_Stay_With_Me_(シングルver.)_松原みき.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "真夜中のドア～Stay With Me",
+      "artist": "松原みき",
+      "has_synced": false,
+      "path": "select/pl_01_真夜中のドア~Stay_With_Me_松原みき.txt"
+    }
+  ]
+}
